@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hotel Mini Bar</string>
+    <string name="room_number">Nomor Kamar</string>
+    <string name="type">Tipe</string>
+    <string name="food">Makanan</string>
+    <string name="drink">Minuman</string>
+    <string name="name">Nama</string>
+    <string name="price">Harga</string>
+    <string name="zero">0</string>
+    <string name="quantity">Jumlah</string>
+    <string name="total">Total</string>
+    <string name="submit">Simpan</string>
+</resources>
